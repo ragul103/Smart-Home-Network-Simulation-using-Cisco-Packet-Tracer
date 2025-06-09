@@ -34,7 +34,7 @@ This project demonstrates a ** smart home network** simulation built using **Cis
 - `Screenshot_2025-06-09_083233.png` – Network topology and IoT monitor view
 
 ## 📸 Screenshot
-![Smart Home Simulation](Screenshot_2025-06-09_083233.png)
+![Smart Home Simulation](Screenshot 2025-06-09 083233.png)
 
 ## 🚀 How to Use
 1. Open the `.pkt` file in Cisco Packet Tracer.
