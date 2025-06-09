@@ -30,7 +30,7 @@ This project demonstrates a ** smart home network** simulation built using **Cis
 - IoT devices are managed via the **IoT Monitor** application on the client laptop.
 
 ## 📂 Files
-- `SmartHome.pkt` – Cisco Packet Tracer file (upload this to the repo)
+- `Smart_Home.pkt` – Cisco Packet Tracer file (upload this to the repo)
 - `Screenshot_2025-06-09_083233.png` – Network topology and IoT monitor view
 
 ## 📸 Screenshot
